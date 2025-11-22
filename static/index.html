@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FURIA Arena Live</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="hud-container">
+        <div class="tournament-info" id="ui-torneio">---</div>
+        <div class="scoreboard-row">
+            <div class="team team-furia">FURIA</div>
+            <div class="score-box">
+                <span id="p-furia">0</span> - <span id="p-adv">0</span>
+            </div>
+            <div class="team team-adv" id="ui-adv">ADV</div>
+        </div>
+        <div class="map-info" id="ui-mapa">MAPA: ---</div>
+    </div>
+
+    <div class="thermo-wrapper">
+        <div class="thermo-header">
+            <span>🔥 Pressão</span>
+            <span id="thermo-val">50%</span>
+        </div>
+        <div class="thermo-container">
+            <div class="thermo-fill" id="thermo"></div>
+        </div>
+    </div>
+
+    <div class="chat-area" id="chat">
+        <div class="welcome-msg">
+            BEM-VINDO À ARENA FURIA!<br>
+            #VAIFURIA! 🐾
+        </div>
+    </div>
+
+    <div class="typing" id="typing">⏳ Furião digitando...</div>
+
+    <div class="input-area">
+        <input
+            type="text"
+            id="msg"
+            placeholder="Mande sua mensagem..."
+            autocomplete="off"
+            onkeypress="if(event.key==='Enter') send()"
+        >
+        <button onclick="send()">ENVIAR</button>
+    </div>
+
+    <script src="script.js" defer></script>
+</body>
+</html>

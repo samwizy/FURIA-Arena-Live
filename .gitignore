@@ -1,0 +1,34 @@
+# --- ARQUIVOS DE AMBIENTE E SEGURANÇA (CRÍTICO) ---
+.env
+.env.local
+*.key
+secrets.py
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+
+# --- AMBIENTES VIRTUAIS (VENV) ---
+# Ignora qualquer pasta comum de venv
+.venv/
+venv/
+env/
+ENV/
+
+# --- IDEs E EDITORES ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- LOGS E BANCOS DE DADOS LOCAIS ---
+*.log
+*.sqlite3
+*.db
+
+# --- SISTEMA OPERACIONAL ---
+.DS_Store
+Thumbs.db
