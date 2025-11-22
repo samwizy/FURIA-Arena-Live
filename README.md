@@ -142,3 +142,12 @@ Since we are not connected to a real CS2 API, use these chat commands to **simul
 This is an educational and non-official project, developed as part of a technical portfolio. It has no commercial affiliation with FURIA Esports, Valve, or Google. All trademarks belong to their respective owners.
 
 Developed with 🖤 and ☕ by Kawan Serafim.
+
+<p>
+    <a href="https://www.linkedin.com/in/kawan-serafim/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kawanserafimdesouza@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</p>
