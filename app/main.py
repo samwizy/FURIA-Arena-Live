@@ -7,7 +7,7 @@ import os
 app = FastAPI(
     title="FURIA Arena",
     description="API de Chat Real-Time com IA Generativa para torcedores.",
-    version="1.0.0"
+    version="1.0.1"
 )
 app.mount("/static", StaticFiles(directory="static"), name="static")
 app.include_router(websocket_router.router)
